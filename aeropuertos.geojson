@@ -1,0 +1,632 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2776",
+        "name": "Huancabamba Airport",
+        "city": "Huancabamba",
+        "country": "Peru",
+        "iata_code": "\\N",
+        "icao": "SPAB",
+        "alt": "6312",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.44290161132812, -5.256770133972168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2777",
+        "name": "Alferez FAP Alfredo Vladimir Sara Bauer Airport",
+        "city": "Andoas",
+        "country": "Peru",
+        "iata_code": "AOP",
+        "icao": "SPAS",
+        "alt": "728",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.46659851070001, -2.79612994194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2778",
+        "name": "Teniente General Gerardo Pérez Pinedo Airport",
+        "city": "Atalaya",
+        "country": "Peru",
+        "iata_code": "\\N",
+        "icao": "SPAY",
+        "alt": "751",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.7665023804, -10.7291002274]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2780",
+        "name": "Iberia Airport",
+        "city": "Iberia",
+        "country": "Peru",
+        "iata_code": "IBP",
+        "icao": "SPBR",
+        "alt": "750",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.48870086669922, -11.411600112915039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2781",
+        "name": "Cap FAP David Abenzur Rengifo International Airport",
+        "city": "Pucallpa",
+        "country": "Peru",
+        "iata_code": "PCL",
+        "icao": "SPCL",
+        "alt": "513",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.57430267333984, -8.37794017791748]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2782",
+        "name": "Teniente FAP Jaime A De Montreuil Morales Airport",
+        "city": "Chimbote",
+        "country": "Peru",
+        "iata_code": "CHM",
+        "icao": "SPEO",
+        "alt": "69",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.5238037109375, -9.149609565734863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2783",
+        "name": "Puerto Esperanza Airport",
+        "city": "Puerto Esperanza",
+        "country": "Peru",
+        "iata_code": "\\N",
+        "icao": "SPEP",
+        "alt": "725",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.70649719238281, -9.7681303024292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2784",
+        "name": "Cesar Torke Podesta Airport",
+        "city": "Moquegua",
+        "country": "Peru",
+        "iata_code": "\\N",
+        "icao": "SPEQ",
+        "alt": "4480",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.93080139160156, -17.179000854492188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2785",
+        "name": "Capitan FAP Jose A Quinones Gonzales International Airport",
+        "city": "Chiclayo",
+        "country": "Peru",
+        "iata_code": "CIX",
+        "icao": "SPHI",
+        "alt": "97",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.8281021118164, -6.787479877471924]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2786",
+        "name": "Coronel FAP Alfredo Mendivil Duarte Airport",
+        "city": "Ayacucho",
+        "country": "Peru",
+        "iata_code": "AYP",
+        "icao": "SPHO",
+        "alt": "8917",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.20439910888672, -13.154800415039062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2787",
+        "name": "Andahuaylas Airport",
+        "city": "Andahuaylas",
+        "country": "Peru",
+        "iata_code": "ANS",
+        "icao": "SPHY",
+        "alt": "11300",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.35040283203125, -13.706399917602539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2788",
+        "name": "Comandante FAP German Arias Graziani Airport",
+        "city": "Anta",
+        "country": "Peru",
+        "iata_code": "ATA",
+        "icao": "SPHZ",
+        "alt": "9097",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.59839630126953, -9.347439765930176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2789",
+        "name": "Jorge Chávez International Airport",
+        "city": "Lima",
+        "country": "Peru",
+        "iata_code": "LIM",
+        "icao": "SPIM",
+        "alt": "113",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.114305, -12.0219]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2790",
+        "name": "Juanjui Airport",
+        "city": "Juanjui",
+        "country": "Peru",
+        "iata_code": "JJI",
+        "icao": "SPJI",
+        "alt": "1148",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.72859954833984, -7.169099807739258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2791",
+        "name": "Francisco Carle Airport",
+        "city": "Jauja",
+        "country": "Peru",
+        "iata_code": "JAU",
+        "icao": "SPJJ",
+        "alt": "11034",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.47339630130001, -11.7831001282]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2792",
+        "name": "Inca Manco Capac International Airport",
+        "city": "Juliaca",
+        "country": "Peru",
+        "iata_code": "JUL",
+        "icao": "SPJL",
+        "alt": "12552",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.158203125, -15.467100143432617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2794",
+        "name": "Ilo Airport",
+        "city": "Ilo",
+        "country": "Peru",
+        "iata_code": "ILQ",
+        "icao": "SPLO",
+        "alt": "72",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.34400177001953, -17.69499969482422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2795",
+        "name": "Las Palmas Air Base",
+        "city": "Las Palmas",
+        "country": "Peru",
+        "iata_code": "\\N",
+        "icao": "SPLP",
+        "alt": "250",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.998901367188, -12.16069984436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2796",
+        "name": "Capitan FAP Pedro Canga Rodriguez Airport",
+        "city": "Tumbes",
+        "country": "Peru",
+        "iata_code": "TBP",
+        "icao": "SPME",
+        "alt": "115",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.38140106201172, -3.55253005027771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2797",
+        "name": "Moises Benzaquen Rengifo Airport",
+        "city": "Yurimaguas",
+        "country": "Peru",
+        "iata_code": "YMS",
+        "icao": "SPMS",
+        "alt": "587",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.11820220947266, -5.893770217895508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2799",
+        "name": "Collique Airport",
+        "city": "Collique",
+        "country": "Peru",
+        "iata_code": "\\N",
+        "icao": "SPOL",
+        "alt": "410",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.06109619140625, -11.92870044708252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2800",
+        "name": "Chachapoyas Airport",
+        "city": "Chachapoyas",
+        "country": "Peru",
+        "iata_code": "CHH",
+        "icao": "SPPY",
+        "alt": "8333",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.8561019897461, -6.201809883117676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2801",
+        "name": "Coronel FAP Francisco Secada Vignetta International Airport",
+        "city": "Iquitos",
+        "country": "Peru",
+        "iata_code": "IQT",
+        "icao": "SPQT",
+        "alt": "306",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.30879974365234, -3.7847399711608887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2802",
+        "name": "Rodríguez Ballón International Airport",
+        "city": "Arequipa",
+        "country": "Peru",
+        "iata_code": "AQP",
+        "icao": "SPQU",
+        "alt": "8405",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.5830993652, -16.3411006927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2803",
+        "name": "Capitán FAP Leonardo Alvariño Herr Airport",
+        "city": "San Ramon",
+        "country": "Peru",
+        "iata_code": "\\N",
+        "icao": "SPRM",
+        "alt": "2600",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.35050201416016, -11.128600120544434]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2804",
+        "name": "Capitan FAP Carlos Martinez De Pinillos International Airport",
+        "city": "Trujillo",
+        "country": "Peru",
+        "iata_code": "TRU",
+        "icao": "SPRU",
+        "alt": "106",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.10880279541016, -8.08141040802002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2805",
+        "name": "Capitán FAP Renán Elías Olivera International Airport",
+        "city": "Pisco",
+        "country": "Peru",
+        "iata_code": "PIO",
+        "icao": "SPSO",
+        "alt": "39",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.22029876708984, -13.74489974975586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2806",
+        "name": "Cadete FAP Guillermo Del Castillo Paredes Airport",
+        "city": "Tarapoto",
+        "country": "Peru",
+        "iata_code": "TPP",
+        "icao": "SPST",
+        "alt": "869",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.37319946289062, -6.508739948272705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2807",
+        "name": "Coronel FAP Carlos Ciriani Santa Rosa International Airport",
+        "city": "Tacna",
+        "country": "Peru",
+        "iata_code": "TCQ",
+        "icao": "SPTN",
+        "alt": "1538",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2758026123, -18.053300857500002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2808",
+        "name": "Padre Aldamiz International Airport",
+        "city": "Puerto Maldonado",
+        "country": "Peru",
+        "iata_code": "PEM",
+        "icao": "SPTU",
+        "alt": "659",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.2285995483, -12.6135997772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2809",
+        "name": "Capitán FAP Guillermo Concha Iberico International Airport",
+        "city": "Piura",
+        "country": "Peru",
+        "iata_code": "PIU",
+        "icao": "SPUR",
+        "alt": "120",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.61640167239999, -5.20574998856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2810",
+        "name": "Capitan Montes Airport",
+        "city": "Talara",
+        "country": "Peru",
+        "iata_code": "TYL",
+        "icao": "SPYL",
+        "alt": "282",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.254096984863, -4.5766401290894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2812",
+        "name": "Alejandro Velasco Astete International Airport",
+        "city": "Cuzco",
+        "country": "Peru",
+        "iata_code": "CUZ",
+        "icao": "SPZO",
+        "alt": "10860",
+        "tz-offset": "-5",
+        "dst": "U",
+        "tz": "America/Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.9387969971, -13.535699844400002]
+      }
+    }
+  ]
+}
